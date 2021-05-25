@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "swift-coding",
+        "repositoryURL": "https://github.com/lukeredpath/swift-coding",
+        "state": {
+          "branch": null,
+          "revision": "b28d38f6b62296f1cd99313b950281a43b130a7c",
+          "version": "0.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
